@@ -13,7 +13,6 @@ Email: <input name="login_email" type="email"/>
 Password: <input name="login_password" type="password"/>
 
 <button type="submit">Submit</button>
-I am learning something
 </form>
 
 </body>
